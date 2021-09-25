@@ -1,0 +1,10 @@
+{
+    "name": "cum-bot",
+    "version": "1.0.0",
+    "description": "My first discord bot",
+    "main": "bot.js",
+    "author": "electrik",
+    "dependencies": {
+        "discord.js": "^13.1.0"
+    }
+}
