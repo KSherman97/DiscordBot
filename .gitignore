@@ -105,3 +105,4 @@ dist
 
 # block files from the bot folder
 bot/auth.json
+bot/lyrics.txt
