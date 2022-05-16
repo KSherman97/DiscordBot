@@ -1,9 +1,9 @@
 # DiscordBot
 this is my discord bot
 
+## How to Run
+### You could install forever using npm like this:
 https://stackoverflow.com/a/12949606
-
-## You could install forever using npm like this:
 
 ### install forever
 sudo npm install -g forever
